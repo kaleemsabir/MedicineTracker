@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MedicineTrackerApp</string>
+    <string name="enter_user_name">Enter username</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="login">Login</string>
+    <string name="view_details">View Details</string>
+</resources>
